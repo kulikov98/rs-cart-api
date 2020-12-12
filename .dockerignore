@@ -1,0 +1,8 @@
+dist
+node_modules
+test
+.git
+README.md
+.prettierrc
+.gitignore
+.eslintrc.js
